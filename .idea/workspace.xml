@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Added some initial visualization of the data">
-      <change beforePath="$PROJECT_DIR$/notebooks/visualizing the data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/visualizing the data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/visualizing the data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708957606689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added some initial visualization of the data">
+      <option name="closed" value="true" />
+      <created>1708957755151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708957755151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Added some initial visualization of the data">
+    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Finished the first Feature extraction method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/visualizing the data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708957755151</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished the first Feature extraction method">
+      <option name="closed" value="true" />
+      <created>1708988878261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708988878261</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +173,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added some initial visualization of the data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some initial visualization of the data" />
+    <MESSAGE value="Finished the first Feature extraction method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the first Feature extraction method" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/glebtcivie/PycharmProjects/machineLearningWorkshop/notebooks/PreprocessingTheData.ipynb</url>
+          <line>365</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

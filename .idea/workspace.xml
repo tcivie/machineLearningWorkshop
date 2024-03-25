@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Finished up the last two feature extraction methods.">
-      <change afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData-AnotherWay.ipynb" afterDir="false" />
+    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Added second assignment with 4 more feature extractions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/PreprocessingTheData-AnotherWay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData-AnotherWay.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,8 @@
       <workItem from="1711114234287" duration="7851000" />
       <workItem from="1711301012586" duration="1176000" />
       <workItem from="1711356945800" duration="111000" />
-      <workItem from="1711357066577" duration="6419000" />
+      <workItem from="1711357066577" duration="7084000" />
+      <workItem from="1711384566515" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709483764340</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added second assignment with 4 more feature extractions">
+      <option name="closed" value="true" />
+      <created>1711364540925</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711364540925</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +209,8 @@
     <MESSAGE value="Finished the first Feature extraction method" />
     <MESSAGE value="Finished the second extraction method" />
     <MESSAGE value="Finished up the last two feature extraction methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished up the last two feature extraction methods." />
+    <MESSAGE value="Added second assignment with 4 more feature extractions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added second assignment with 4 more feature extractions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -131,7 +131,7 @@
       <workItem from="1711301012586" duration="1176000" />
       <workItem from="1711356945800" duration="111000" />
       <workItem from="1711357066577" duration="7084000" />
-      <workItem from="1711384566515" duration="1312000" />
+      <workItem from="1711384566515" duration="3092000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711364540925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added second assignment with 4 more feature extractions">
+      <option name="closed" value="true" />
+      <created>1711386944336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711386944336</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

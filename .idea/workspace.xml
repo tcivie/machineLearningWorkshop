@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Finished the second extraction method">
+    <list default="true" id="b337312f-d5e6-4daa-b63d-bb96652695ed" name="Changes" comment="Finished up the last two feature extraction methods.">
+      <change afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData-AnotherWay.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PreprocessingTheData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -110,7 +111,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -123,7 +124,13 @@
       <option name="presentableId" value="Default" />
       <updated>1708952083325</updated>
       <workItem from="1708952086027" duration="778000" />
-      <workItem from="1709375094601" duration="17211000" />
+      <workItem from="1709375094601" duration="19849000" />
+      <workItem from="1709719729963" duration="3317000" />
+      <workItem from="1710600665706" duration="973000" />
+      <workItem from="1711114234287" duration="7851000" />
+      <workItem from="1711301012586" duration="1176000" />
+      <workItem from="1711356945800" duration="111000" />
+      <workItem from="1711357066577" duration="6419000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -173,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709052020063</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished up the last two feature extraction methods.">
+      <option name="closed" value="true" />
+      <created>1709483764340</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709483764340</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +199,8 @@
     <MESSAGE value="Added some initial visualization of the data" />
     <MESSAGE value="Finished the first Feature extraction method" />
     <MESSAGE value="Finished the second extraction method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the second extraction method" />
+    <MESSAGE value="Finished up the last two feature extraction methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished up the last two feature extraction methods." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
